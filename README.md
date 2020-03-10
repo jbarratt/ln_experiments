@@ -19,7 +19,7 @@ go run 100cubes.go
 ```
 ## 100 cubes
 
-![](100cubes.svg?raw=true)
+![](100cubes.png?raw=true)
 
 ## Cube Tube
 
@@ -27,10 +27,10 @@ go run 100cubes.go
 
 ## Pencilstorm
 
-![](pencilstorm.svg?raw=true)
+![](pencilstorm.png?raw=true)
 
 ## Random Walk
 
-![](randomwalk.svg?raw=true)
+![](randomwalk.png?raw=true)
 
 
